@@ -1,5 +1,5 @@
 <!-- Logotipo -->
-<h1 align="center" style="padding: 50px; background: #121214;">
+<h1 align="center">
 <img alt="Logotipo" src="./.github/logo.svg" width="200" heigth="auto"/>
 </h1>
 
