@@ -1,6 +1,6 @@
 <!-- Logotipo -->
-<h1 align="center" style="padding: 50px;">
-<img alt="Logotipo" src="./.github/logo.svg" width="auto" heigth="auto"/>
+<h1 align="center" style="padding: 50px; background: #121214;">
+<img alt="Logotipo" src="./.github/logo.svg" width="200" heigth="auto"/>
 </h1>
 
 <div align="center">
